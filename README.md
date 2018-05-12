@@ -1,6 +1,6 @@
 # FlightSearchAPI
 
-FlightSearchAPI works in conjunction with ScraperAPI to query each provider(e.g. "Expedia" , "Orbitz" , etc) via HTTP and   returns a merged list containing all of their results.
+FlightSearchAPI works in conjunction with ScraperAPI(company API)to query each provider(e.g. "Expedia" , "Orbitz" , etc) via HTTP and   returns a merged list containing all of their results.
 
  The application must:
 - Search all providers via HTTP
