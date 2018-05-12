@@ -62,7 +62,7 @@ FlightSearchAPI works in conjunction with ScraperAPI to query each provider(e.g.
       
 # Background about ScraperAPI
 
-Hipmunk has a scraper farm that we use to search our partner sites. The name scraper is a legacy holdover from when we actually scraped them. Nowadays, we query their APIs :)
+X has a scraper farm that we use to search our partner sites. The name scraper is a legacy holdover from when we actually scraped them. Nowadays, we query their APIs :)
 
 For this problem, the scraper farm will be emulated by a simple HTTP server.
 
