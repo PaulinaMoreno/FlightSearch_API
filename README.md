@@ -12,7 +12,7 @@ FlightSearchAPI works in conjunction with ScraperAPI to query each provider(e.g.
 * Tornado [http://www.tornadoweb.org/en/stable/]
 * Memcached (Memcached is a high performance multithreaded event-based key/value cache store intended to be used in a distributed system.)[https://github.com/memcached/memcached/wiki/Install]
 * Python memcached (Python interface to the memcached memory cache daemon).)[https://pypi.org/project/python-memcached/]
-* Download and run ScraperAPI [https://github.com/Hipmunk/hipproblems/tree/master/searchrunner]
+* Download and run ScraperAPI
 * Python request module (to run API_test.py)
 
 ## Run
